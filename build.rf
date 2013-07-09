@@ -1,0 +1,7 @@
+-od"bin"
+-of"bin/datastructures"
+
+-I""
+
+"src/linkedlist.d"
+"src/tree.d"
