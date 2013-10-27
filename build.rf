@@ -3,5 +3,6 @@
 
 -I""
 
+"src/hashtable.d"
 "src/linkedlist.d"
 "src/tree.d"
